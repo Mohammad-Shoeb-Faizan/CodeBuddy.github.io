@@ -51,19 +51,21 @@ To install and run CodeBuddy locally, follow these steps:
 
 ## Usage
 
-1. Sign up for a new account or log in to your existing account on CodeBuddy.
+1. Open the HTML file in a web browser.
 
-2. Browse through the available coding challenges and select the one you want to solve.
+2. Read the notice displayed in the popup, which emphasizes the importance of honesty and integrity while taking the quiz.
 
-3. Use the integrated code editor to write your solution.
+3. Click on the "Start Quiz" button to begin the quiz.
 
-4. Click the "Run" button to execute your code and view the results.
+4. Answer each question by selecting one of the provided options.
 
-5. Review the feedback provided by CodeBuddy, make any necessary modifications, and resubmit your solution.
+5. After answering a question, click on the "Next" button to proceed to the next question. You can also use the "Skip" button to skip a question and move to the next one.
 
-6. Track your progress and improvement over time through the statistics and insights available on your dashboard.
+6. The progress bar indicates your progress in the quiz.
 
-7. Engage in discussions, share your code, and learn from other CodeBuddy users.
+7. The score container displays your current score.
+
+8. Once you have answered all the questions, the quiz will end, and your final score will be displayed.
 
 ## Contributing
 
