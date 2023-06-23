@@ -97,6 +97,6 @@ CodeBuddy is released under the [MIT License](LICENSE). Feel free to use, modify
 
 CodeBuddy is an exceptional project developed during my internship at InternPe. It serves as a valuable tool for students and professionals seeking to enhance their coding skills, track their progress, and engage in a vibrant coding community. Join us on this exciting journey of growth and excellence!
 
-For more information, please visit the [CodeBuddy GitHub repository](https://github.com/Mohammad-Shoeb-Faizan/codebuddy).
+For more information, please visit the [CodeBuddy GitHub repository](https://github.com/Mohammad-Shoeb-Faizan/CodeBuddy.github.io/tree/main).
 
 Happy coding! 🚀🔥
