@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CodeBuddy! 🚀🔥</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="title">Coder Quiz App</h1>
+      <div id="popup" class="popup">
+        <div class="popup-content">
+          <h2>Welcome to the Quiz!</h2>
+          <p>Please read the following notice:</p>
+          <p class="notice">
+            By proceeding with this quiz, you agree not to cheat or use any
+            external sources to find answers. Cheating can damage your own
+            career growth and hinder your learning experience. Honesty and
+            integrity are essential for personal and professional development.
+          </p>
+          <p style="color: red;">!DON'T REFRESH THE PAGE, YOU'LL LOOSE THE PROGRESS AND START AGAIN!!</p>
+          <button id="start-btn" onclick="startQuiz()">Start Quiz</button>
+        </div>
+      </div>
+      <div id="quiz-container" class="hidden">
+        <div id="progress-container">
+          <div id="progress-bar"></div>
+        </div>
+        <h2 id="question"></h2>
+        <div id="options-container">
+          <button class="option"></button>
+          <button class="option"></button>
+          <button class="option"></button>
+          <button class="option"></button>
+        </div>
+        <div id="result"></div>
+        <div id="buttons-container">
+          <button id="skip-btn" onclick="skipQuestion()">Skip</button>
+          <button id="next-btn" onclick="nextQuestion()">Next</button>
+        </div>
+        <div id="timer-container">
+          <div id="timer"></div>
+        </div>
+      </div>
+      <div id="score-container">
+        <span id="progress"></span> Score: <span id="score">0</span>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
